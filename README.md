@@ -11,7 +11,7 @@ To create new virtual environment:
 ```
 python -m venv project_directory\venv
 ```
-Note: That `project_directory` is YOUR local directory of this project.
+- Note: That `project_directory` is YOUR local directory of this project.
 
 <br/>
 
